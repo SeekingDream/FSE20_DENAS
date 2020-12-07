@@ -1,4 +1,4 @@
-# DENAS: Automated Rule Generation by Knowledge Extraction from Neural Networks
+# DENAS: [Automated Rule Generation by Knowledge Extraction from Neural Networks](https://github.com/pandao/editor.md "Heading link")
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3898178.svg)](https://doi.org/10.5281/zenodo.3898178)
 
