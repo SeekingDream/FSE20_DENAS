@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3898178.svg)](https://doi.org/10.5281/zenodo.3898178)
 
 ## Descriptions
-![](https://github.com/DENAS-GLOBAL/DENAS/blob/master/Picture/explain.png)
+![](https://github.com/SeekingDream/denas_fse2020/blob/master/figure/binary_example.pdf)
 Above is an example of rule-based inference: we highlight the rule with yellow. Any input that satisfies the **rule condition** will be classified into a target category. Such **rules** could represent the behavior of the neural networks.  
 
 In our recent paper, we propose an input-independent deep learning interpretation framework. We find the neuron activation probability is an intrinsic property of the neural networks and this property could model the decision boundary of the neural networks withount a specific input. Below is a Figure from our paper, where we show the stability of this intrinsic property (for details, read our paper).
